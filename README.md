@@ -1,6 +1,3 @@
-
-
-GitHub Copilot: ````markdown
 # 🌐 5G LTE-based IoT Network Simulation
 
 <div align="center">
